@@ -1,0 +1,1286 @@
+{
+  "season": 2026,
+  "current_week": 12,
+  "current_match_idx": 0,
+  "standings": {
+    "🔴Kırmızı": {
+      "O": 12,
+      "G": 6,
+      "B": 2,
+      "M": 4,
+      "AG": 68,
+      "YG": 66,
+      "P": 20
+    },
+    "🟠Turuncu": {
+      "O": 12,
+      "G": 5,
+      "B": 1,
+      "M": 6,
+      "AG": 70,
+      "YG": 67,
+      "P": 16
+    },
+    "🟡Sarı": {
+      "O": 12,
+      "G": 6,
+      "B": 1,
+      "M": 5,
+      "AG": 74,
+      "YG": 71,
+      "P": 19
+    },
+    "🟢Yeşil": {
+      "O": 12,
+      "G": 3,
+      "B": 2,
+      "M": 7,
+      "AG": 60,
+      "YG": 68,
+      "P": 11
+    },
+    "🔵Mavi": {
+      "O": 12,
+      "G": 8,
+      "B": 2,
+      "M": 2,
+      "AG": 78,
+      "YG": 63,
+      "P": 26
+    },
+    "🟣Mor": {
+      "O": 12,
+      "G": 3,
+      "B": 2,
+      "M": 7,
+      "AG": 64,
+      "YG": 69,
+      "P": 11
+    },
+    "💖Pembe": {
+      "O": 12,
+      "G": 4,
+      "B": 2,
+      "M": 6,
+      "AG": 63,
+      "YG": 70,
+      "P": 14
+    },
+    "⚫Siyah": {
+      "O": 12,
+      "G": 3,
+      "B": 5,
+      "M": 4,
+      "AG": 67,
+      "YG": 73,
+      "P": 14
+    },
+    "⚪Beyaz": {
+      "O": 12,
+      "G": 2,
+      "B": 4,
+      "M": 6,
+      "AG": 66,
+      "YG": 77,
+      "P": 10
+    },
+    "🩶Gri": {
+      "O": 12,
+      "G": 7,
+      "B": 2,
+      "M": 3,
+      "AG": 76,
+      "YG": 65,
+      "P": 23
+    },
+    "🌌Lacivert": {
+      "O": 12,
+      "G": 6,
+      "B": 3,
+      "M": 3,
+      "AG": 69,
+      "YG": 67,
+      "P": 21
+    },
+    "🩵Turkuaz": {
+      "O": 12,
+      "G": 5,
+      "B": 2,
+      "M": 5,
+      "AG": 59,
+      "YG": 58,
+      "P": 17
+    }
+  },
+  "fixture": [
+    [
+      [
+        "🔵Mavi",
+        "🟣Mor"
+      ],
+      [
+        "🟠Turuncu",
+        "🩶Gri"
+      ],
+      [
+        "🟡Sarı",
+        "🔴Kırmızı"
+      ],
+      [
+        "💖Pembe",
+        "⚫Siyah"
+      ],
+      [
+        "🌌Lacivert",
+        "🟢Yeşil"
+      ],
+      [
+        "⚪Beyaz",
+        "🩵Turkuaz"
+      ]
+    ],
+    [
+      [
+        "🩶Gri",
+        "🔵Mavi"
+      ],
+      [
+        "🔴Kırmızı",
+        "🟣Mor"
+      ],
+      [
+        "⚫Siyah",
+        "🟠Turuncu"
+      ],
+      [
+        "🟢Yeşil",
+        "🟡Sarı"
+      ],
+      [
+        "🩵Turkuaz",
+        "💖Pembe"
+      ],
+      [
+        "⚪Beyaz",
+        "🌌Lacivert"
+      ]
+    ],
+    [
+      [
+        "🔵Mavi",
+        "🔴Kırmızı"
+      ],
+      [
+        "🩶Gri",
+        "⚫Siyah"
+      ],
+      [
+        "🟣Mor",
+        "🟢Yeşil"
+      ],
+      [
+        "🟠Turuncu",
+        "🩵Turkuaz"
+      ],
+      [
+        "🟡Sarı",
+        "⚪Beyaz"
+      ],
+      [
+        "💖Pembe",
+        "🌌Lacivert"
+      ]
+    ],
+    [
+      [
+        "⚫Siyah",
+        "🔵Mavi"
+      ],
+      [
+        "🟢Yeşil",
+        "🔴Kırmızı"
+      ],
+      [
+        "🩵Turkuaz",
+        "🩶Gri"
+      ],
+      [
+        "⚪Beyaz",
+        "🟣Mor"
+      ],
+      [
+        "🌌Lacivert",
+        "🟠Turuncu"
+      ],
+      [
+        "💖Pembe",
+        "🟡Sarı"
+      ]
+    ],
+    [
+      [
+        "🔵Mavi",
+        "🟢Yeşil"
+      ],
+      [
+        "⚫Siyah",
+        "🩵Turkuaz"
+      ],
+      [
+        "🔴Kırmızı",
+        "⚪Beyaz"
+      ],
+      [
+        "🩶Gri",
+        "🌌Lacivert"
+      ],
+      [
+        "🟣Mor",
+        "💖Pembe"
+      ],
+      [
+        "🟠Turuncu",
+        "🟡Sarı"
+      ]
+    ],
+    [
+      [
+        "🩵Turkuaz",
+        "🔵Mavi"
+      ],
+      [
+        "⚪Beyaz",
+        "🟢Yeşil"
+      ],
+      [
+        "🌌Lacivert",
+        "⚫Siyah"
+      ],
+      [
+        "💖Pembe",
+        "🔴Kırmızı"
+      ],
+      [
+        "🟡Sarı",
+        "🩶Gri"
+      ],
+      [
+        "🟠Turuncu",
+        "🟣Mor"
+      ]
+    ],
+    [
+      [
+        "🔵Mavi",
+        "⚪Beyaz"
+      ],
+      [
+        "🩵Turkuaz",
+        "🌌Lacivert"
+      ],
+      [
+        "🟢Yeşil",
+        "💖Pembe"
+      ],
+      [
+        "⚫Siyah",
+        "🟡Sarı"
+      ],
+      [
+        "🔴Kırmızı",
+        "🟠Turuncu"
+      ],
+      [
+        "🩶Gri",
+        "🟣Mor"
+      ]
+    ],
+    [
+      [
+        "🌌Lacivert",
+        "🔵Mavi"
+      ],
+      [
+        "💖Pembe",
+        "⚪Beyaz"
+      ],
+      [
+        "🟡Sarı",
+        "🩵Turkuaz"
+      ],
+      [
+        "🟠Turuncu",
+        "🟢Yeşil"
+      ],
+      [
+        "🟣Mor",
+        "⚫Siyah"
+      ],
+      [
+        "🩶Gri",
+        "🔴Kırmızı"
+      ]
+    ],
+    [
+      [
+        "🔵Mavi",
+        "💖Pembe"
+      ],
+      [
+        "🌌Lacivert",
+        "🟡Sarı"
+      ],
+      [
+        "⚪Beyaz",
+        "🟠Turuncu"
+      ],
+      [
+        "🩵Turkuaz",
+        "🟣Mor"
+      ],
+      [
+        "🟢Yeşil",
+        "🩶Gri"
+      ],
+      [
+        "⚫Siyah",
+        "🔴Kırmızı"
+      ]
+    ],
+    [
+      [
+        "🟡Sarı",
+        "🔵Mavi"
+      ],
+      [
+        "🟠Turuncu",
+        "💖Pembe"
+      ],
+      [
+        "🟣Mor",
+        "🌌Lacivert"
+      ],
+      [
+        "🩶Gri",
+        "⚪Beyaz"
+      ],
+      [
+        "🔴Kırmızı",
+        "🩵Turkuaz"
+      ],
+      [
+        "⚫Siyah",
+        "🟢Yeşil"
+      ]
+    ],
+    [
+      [
+        "🔵Mavi",
+        "🟠Turuncu"
+      ],
+      [
+        "🟡Sarı",
+        "🟣Mor"
+      ],
+      [
+        "💖Pembe",
+        "🩶Gri"
+      ],
+      [
+        "🌌Lacivert",
+        "🔴Kırmızı"
+      ],
+      [
+        "⚪Beyaz",
+        "⚫Siyah"
+      ],
+      [
+        "🩵Turkuaz",
+        "🟢Yeşil"
+      ]
+    ],
+    [
+      [
+        "🟣Mor",
+        "🔵Mavi"
+      ],
+      [
+        "🩶Gri",
+        "🟠Turuncu"
+      ],
+      [
+        "🔴Kırmızı",
+        "🟡Sarı"
+      ],
+      [
+        "⚫Siyah",
+        "💖Pembe"
+      ],
+      [
+        "🟢Yeşil",
+        "🌌Lacivert"
+      ],
+      [
+        "🩵Turkuaz",
+        "⚪Beyaz"
+      ]
+    ],
+    [
+      [
+        "🔵Mavi",
+        "🩶Gri"
+      ],
+      [
+        "🟣Mor",
+        "🔴Kırmızı"
+      ],
+      [
+        "🟠Turuncu",
+        "⚫Siyah"
+      ],
+      [
+        "🟡Sarı",
+        "🟢Yeşil"
+      ],
+      [
+        "💖Pembe",
+        "🩵Turkuaz"
+      ],
+      [
+        "🌌Lacivert",
+        "⚪Beyaz"
+      ]
+    ],
+    [
+      [
+        "🔴Kırmızı",
+        "🔵Mavi"
+      ],
+      [
+        "⚫Siyah",
+        "🩶Gri"
+      ],
+      [
+        "🟢Yeşil",
+        "🟣Mor"
+      ],
+      [
+        "🩵Turkuaz",
+        "🟠Turuncu"
+      ],
+      [
+        "⚪Beyaz",
+        "🟡Sarı"
+      ],
+      [
+        "🌌Lacivert",
+        "💖Pembe"
+      ]
+    ],
+    [
+      [
+        "🔵Mavi",
+        "⚫Siyah"
+      ],
+      [
+        "🔴Kırmızı",
+        "🟢Yeşil"
+      ],
+      [
+        "🩶Gri",
+        "🩵Turkuaz"
+      ],
+      [
+        "🟣Mor",
+        "⚪Beyaz"
+      ],
+      [
+        "🟠Turuncu",
+        "🌌Lacivert"
+      ],
+      [
+        "🟡Sarı",
+        "💖Pembe"
+      ]
+    ],
+    [
+      [
+        "🟢Yeşil",
+        "🔵Mavi"
+      ],
+      [
+        "🩵Turkuaz",
+        "⚫Siyah"
+      ],
+      [
+        "⚪Beyaz",
+        "🔴Kırmızı"
+      ],
+      [
+        "🌌Lacivert",
+        "🩶Gri"
+      ],
+      [
+        "💖Pembe",
+        "🟣Mor"
+      ],
+      [
+        "🟡Sarı",
+        "🟠Turuncu"
+      ]
+    ],
+    [
+      [
+        "🔵Mavi",
+        "🩵Turkuaz"
+      ],
+      [
+        "🟢Yeşil",
+        "⚪Beyaz"
+      ],
+      [
+        "⚫Siyah",
+        "🌌Lacivert"
+      ],
+      [
+        "🔴Kırmızı",
+        "💖Pembe"
+      ],
+      [
+        "🩶Gri",
+        "🟡Sarı"
+      ],
+      [
+        "🟣Mor",
+        "🟠Turuncu"
+      ]
+    ],
+    [
+      [
+        "⚪Beyaz",
+        "🔵Mavi"
+      ],
+      [
+        "🌌Lacivert",
+        "🩵Turkuaz"
+      ],
+      [
+        "💖Pembe",
+        "🟢Yeşil"
+      ],
+      [
+        "🟡Sarı",
+        "⚫Siyah"
+      ],
+      [
+        "🟠Turuncu",
+        "🔴Kırmızı"
+      ],
+      [
+        "🟣Mor",
+        "🩶Gri"
+      ]
+    ],
+    [
+      [
+        "🔵Mavi",
+        "🌌Lacivert"
+      ],
+      [
+        "⚪Beyaz",
+        "💖Pembe"
+      ],
+      [
+        "🩵Turkuaz",
+        "🟡Sarı"
+      ],
+      [
+        "🟢Yeşil",
+        "🟠Turuncu"
+      ],
+      [
+        "⚫Siyah",
+        "🟣Mor"
+      ],
+      [
+        "🔴Kırmızı",
+        "🩶Gri"
+      ]
+    ],
+    [
+      [
+        "💖Pembe",
+        "🔵Mavi"
+      ],
+      [
+        "🟡Sarı",
+        "🌌Lacivert"
+      ],
+      [
+        "🟠Turuncu",
+        "⚪Beyaz"
+      ],
+      [
+        "🟣Mor",
+        "🩵Turkuaz"
+      ],
+      [
+        "🩶Gri",
+        "🟢Yeşil"
+      ],
+      [
+        "🔴Kırmızı",
+        "⚫Siyah"
+      ]
+    ],
+    [
+      [
+        "🔵Mavi",
+        "🟡Sarı"
+      ],
+      [
+        "💖Pembe",
+        "🟠Turuncu"
+      ],
+      [
+        "🌌Lacivert",
+        "🟣Mor"
+      ],
+      [
+        "⚪Beyaz",
+        "🩶Gri"
+      ],
+      [
+        "🩵Turkuaz",
+        "🔴Kırmızı"
+      ],
+      [
+        "🟢Yeşil",
+        "⚫Siyah"
+      ]
+    ],
+    [
+      [
+        "🟠Turuncu",
+        "🔵Mavi"
+      ],
+      [
+        "🟣Mor",
+        "🟡Sarı"
+      ],
+      [
+        "🩶Gri",
+        "💖Pembe"
+      ],
+      [
+        "🔴Kırmızı",
+        "🌌Lacivert"
+      ],
+      [
+        "⚫Siyah",
+        "⚪Beyaz"
+      ],
+      [
+        "🟢Yeşil",
+        "🩵Turkuaz"
+      ]
+    ]
+  ],
+  "match_results": {
+    "0-0": {
+      "home": "🔵Mavi",
+      "away": "🟣Mor",
+      "h_score": 5,
+      "a_score": 4
+    },
+    "0-1": {
+      "home": "🟠Turuncu",
+      "away": "🩶Gri",
+      "h_score": 5,
+      "a_score": 7
+    },
+    "0-2": {
+      "home": "🟡Sarı",
+      "away": "🔴Kırmızı",
+      "h_score": 5,
+      "a_score": 6
+    },
+    "0-3": {
+      "home": "💖Pembe",
+      "away": "⚫Siyah",
+      "h_score": 5,
+      "a_score": 5
+    },
+    "0-4": {
+      "home": "🌌Lacivert",
+      "away": "🟢Yeşil",
+      "h_score": 6,
+      "a_score": 6
+    },
+    "0-5": {
+      "home": "⚪Beyaz",
+      "away": "🩵Turkuaz",
+      "h_score": 5,
+      "a_score": 5
+    },
+    "1-0": {
+      "home": "🩶Gri",
+      "away": "🔵Mavi",
+      "h_score": 7,
+      "a_score": 6
+    },
+    "1-1": {
+      "home": "🔴Kırmızı",
+      "away": "🟣Mor",
+      "h_score": 7,
+      "a_score": 6
+    },
+    "1-2": {
+      "home": "⚫Siyah",
+      "away": "🟠Turuncu",
+      "h_score": 4,
+      "a_score": 8
+    },
+    "1-3": {
+      "home": "🟢Yeşil",
+      "away": "🟡Sarı",
+      "h_score": 7,
+      "a_score": 6
+    },
+    "1-4": {
+      "home": "🩵Turkuaz",
+      "away": "💖Pembe",
+      "h_score": 7,
+      "a_score": 3
+    },
+    "1-5": {
+      "home": "⚪Beyaz",
+      "away": "🌌Lacivert",
+      "h_score": 6,
+      "a_score": 8
+    },
+    "2-0": {
+      "home": "🔵Mavi",
+      "away": "🔴Kırmızı",
+      "h_score": 6,
+      "a_score": 6
+    },
+    "2-1": {
+      "home": "🩶Gri",
+      "away": "⚫Siyah",
+      "h_score": 7,
+      "a_score": 7
+    },
+    "2-2": {
+      "home": "🟣Mor",
+      "away": "🟢Yeşil",
+      "h_score": 2,
+      "a_score": 2
+    },
+    "2-3": {
+      "home": "🟠Turuncu",
+      "away": "🩵Turkuaz",
+      "h_score": 5,
+      "a_score": 6
+    },
+    "2-4": {
+      "home": "🟡Sarı",
+      "away": "⚪Beyaz",
+      "h_score": 5,
+      "a_score": 5
+    },
+    "2-5": {
+      "home": "💖Pembe",
+      "away": "🌌Lacivert",
+      "h_score": 4,
+      "a_score": 7
+    },
+    "3-0": {
+      "home": "⚫Siyah",
+      "away": "🔵Mavi",
+      "h_score": 4,
+      "a_score": 9
+    },
+    "3-1": {
+      "home": "🟢Yeşil",
+      "away": "🔴Kırmızı",
+      "h_score": 4,
+      "a_score": 2
+    },
+    "3-2": {
+      "home": "🩵Turkuaz",
+      "away": "🩶Gri",
+      "h_score": 5,
+      "a_score": 5
+    },
+    "3-3": {
+      "home": "⚪Beyaz",
+      "away": "🟣Mor",
+      "h_score": 4,
+      "a_score": 7
+    },
+    "3-4": {
+      "home": "🌌Lacivert",
+      "away": "🟠Turuncu",
+      "h_score": 2,
+      "a_score": 8
+    },
+    "3-5": {
+      "home": "💖Pembe",
+      "away": "🟡Sarı",
+      "h_score": 5,
+      "a_score": 3
+    },
+    "4-0": {
+      "home": "🔵Mavi",
+      "away": "🟢Yeşil",
+      "h_score": 6,
+      "a_score": 5
+    },
+    "4-1": {
+      "home": "⚫Siyah",
+      "away": "🩵Turkuaz",
+      "h_score": 3,
+      "a_score": 6
+    },
+    "4-2": {
+      "home": "🔴Kırmızı",
+      "away": "⚪Beyaz",
+      "h_score": 8,
+      "a_score": 5
+    },
+    "4-3": {
+      "home": "🩶Gri",
+      "away": "🌌Lacivert",
+      "h_score": 6,
+      "a_score": 7
+    },
+    "4-4": {
+      "home": "🟣Mor",
+      "away": "💖Pembe",
+      "h_score": 6,
+      "a_score": 5
+    },
+    "4-5": {
+      "home": "🟠Turuncu",
+      "away": "🟡Sarı",
+      "h_score": 5,
+      "a_score": 7
+    },
+    "5-0": {
+      "home": "🩵Turkuaz",
+      "away": "🔵Mavi",
+      "h_score": 3,
+      "a_score": 7
+    },
+    "5-1": {
+      "home": "⚪Beyaz",
+      "away": "🟢Yeşil",
+      "h_score": 9,
+      "a_score": 8
+    },
+    "5-2": {
+      "home": "🌌Lacivert",
+      "away": "⚫Siyah",
+      "h_score": 6,
+      "a_score": 6
+    },
+    "5-3": {
+      "home": "💖Pembe",
+      "away": "🔴Kırmızı",
+      "h_score": 4,
+      "a_score": 7
+    },
+    "5-4": {
+      "home": "🟡Sarı",
+      "away": "🩶Gri",
+      "h_score": 7,
+      "a_score": 9
+    },
+    "5-5": {
+      "home": "🟠Turuncu",
+      "away": "🟣Mor",
+      "h_score": 9,
+      "a_score": 8
+    },
+    "6-0": {
+      "home": "🔵Mavi",
+      "away": "⚪Beyaz",
+      "h_score": 8,
+      "a_score": 8
+    },
+    "6-1": {
+      "home": "🩵Turkuaz",
+      "away": "🌌Lacivert",
+      "h_score": 5,
+      "a_score": 3
+    },
+    "6-2": {
+      "home": "🟢Yeşil",
+      "away": "💖Pembe",
+      "h_score": 10,
+      "a_score": 6
+    },
+    "6-3": {
+      "home": "⚫Siyah",
+      "away": "🟡Sarı",
+      "h_score": 7,
+      "a_score": 8
+    },
+    "6-4": {
+      "home": "🔴Kırmızı",
+      "away": "🟠Turuncu",
+      "h_score": 8,
+      "a_score": 6
+    },
+    "6-5": {
+      "home": "🩶Gri",
+      "away": "🟣Mor",
+      "h_score": 8,
+      "a_score": 5
+    },
+    "7-0": {
+      "home": "🌌Lacivert",
+      "away": "🔵Mavi",
+      "h_score": 5,
+      "a_score": 7
+    },
+    "7-1": {
+      "home": "💖Pembe",
+      "away": "⚪Beyaz",
+      "h_score": 8,
+      "a_score": 6
+    },
+    "7-2": {
+      "home": "🟡Sarı",
+      "away": "🩵Turkuaz",
+      "h_score": 8,
+      "a_score": 5
+    },
+    "7-3": {
+      "home": "🟠Turuncu",
+      "away": "🟢Yeşil",
+      "h_score": 5,
+      "a_score": 4
+    },
+    "7-4": {
+      "home": "🟣Mor",
+      "away": "⚫Siyah",
+      "h_score": 4,
+      "a_score": 7
+    },
+    "7-5": {
+      "home": "🩶Gri",
+      "away": "🔴Kırmızı",
+      "h_score": 8,
+      "a_score": 4
+    },
+    "8-0": {
+      "home": "🔵Mavi",
+      "away": "💖Pembe",
+      "h_score": 7,
+      "a_score": 6
+    },
+    "8-1": {
+      "home": "🌌Lacivert",
+      "away": "🟡Sarı",
+      "h_score": 7,
+      "a_score": 4
+    },
+    "8-2": {
+      "home": "⚪Beyaz",
+      "away": "🟠Turuncu",
+      "h_score": 5,
+      "a_score": 5
+    },
+    "8-3": {
+      "home": "🩵Turkuaz",
+      "away": "🟣Mor",
+      "h_score": 4,
+      "a_score": 7
+    },
+    "8-4": {
+      "home": "🟢Yeşil",
+      "away": "🩶Gri",
+      "h_score": 2,
+      "a_score": 6
+    },
+    "8-5": {
+      "home": "⚫Siyah",
+      "away": "🔴Kırmızı",
+      "h_score": 6,
+      "a_score": 6
+    },
+    "9-0": {
+      "home": "🟡Sarı",
+      "away": "🔵Mavi",
+      "h_score": 7,
+      "a_score": 6
+    },
+    "9-1": {
+      "home": "🟠Turuncu",
+      "away": "💖Pembe",
+      "h_score": 4,
+      "a_score": 6
+    },
+    "9-2": {
+      "home": "🟣Mor",
+      "away": "🌌Lacivert",
+      "h_score": 6,
+      "a_score": 6
+    },
+    "9-3": {
+      "home": "🩶Gri",
+      "away": "⚪Beyaz",
+      "h_score": 6,
+      "a_score": 5
+    },
+    "9-4": {
+      "home": "🔴Kırmızı",
+      "away": "🩵Turkuaz",
+      "h_score": 5,
+      "a_score": 3
+    },
+    "9-5": {
+      "home": "⚫Siyah",
+      "away": "🟢Yeşil",
+      "h_score": 7,
+      "a_score": 5
+    },
+    "10-0": {
+      "home": "🔵Mavi",
+      "away": "🟠Turuncu",
+      "h_score": 6,
+      "a_score": 4
+    },
+    "10-1": {
+      "home": "🟡Sarı",
+      "away": "🟣Mor",
+      "h_score": 7,
+      "a_score": 5
+    },
+    "10-2": {
+      "home": "💖Pembe",
+      "away": "🩶Gri",
+      "h_score": 6,
+      "a_score": 3
+    },
+    "10-3": {
+      "home": "🌌Lacivert",
+      "away": "🔴Kırmızı",
+      "h_score": 6,
+      "a_score": 5
+    },
+    "10-4": {
+      "home": "⚪Beyaz",
+      "away": "⚫Siyah",
+      "h_score": 4,
+      "a_score": 6
+    },
+    "10-5": {
+      "home": "🩵Turkuaz",
+      "away": "🟢Yeşil",
+      "h_score": 7,
+      "a_score": 3
+    },
+    "11-0": {
+      "home": "🟣Mor",
+      "away": "🔵Mavi",
+      "h_score": 4,
+      "a_score": 5
+    },
+    "11-1": {
+      "home": "🩶Gri",
+      "away": "🟠Turuncu",
+      "h_score": 4,
+      "a_score": 6
+    },
+    "11-2": {
+      "home": "🔴Kırmızı",
+      "away": "🟡Sarı",
+      "h_score": 4,
+      "a_score": 7
+    },
+    "11-3": {
+      "home": "⚫Siyah",
+      "away": "💖Pembe",
+      "h_score": 5,
+      "a_score": 5
+    },
+    "11-4": {
+      "home": "🟢Yeşil",
+      "away": "🌌Lacivert",
+      "h_score": 4,
+      "a_score": 6
+    },
+    "11-5": {
+      "home": "🩵Turkuaz",
+      "away": "⚪Beyaz",
+      "h_score": 3,
+      "a_score": 4
+    }
+  },
+  "match_in_progress": false,
+  "match_words": [
+    {
+      "id": 1280,
+      "word": "reconcile",
+      "meaning": "uzlaştırmak"
+    },
+    {
+      "id": 3,
+      "word": "accuse",
+      "meaning": "suçlamak"
+    },
+    {
+      "id": 81,
+      "word": "spike",
+      "meaning": "bir anda çıkmak"
+    },
+    {
+      "id": 1253,
+      "word": "ambivalent",
+      "meaning": "ikircikli"
+    },
+    {
+      "id": 80,
+      "word": "surplus",
+      "meaning": "fazla miktarda"
+    },
+    {
+      "id": 1300,
+      "word": "because of",
+      "meaning": "den dolayı"
+    },
+    {
+      "id": 1165,
+      "word": "suspend",
+      "meaning": "durdurmak"
+    },
+    {
+      "id": 1291,
+      "word": "foster",
+      "meaning": "geliştirmek"
+    },
+    {
+      "id": 30,
+      "word": "accelerate",
+      "meaning": "ivme kazanmak"
+    },
+    {
+      "id": 133,
+      "word": "decline",
+      "meaning": "gerilemek"
+    },
+    {
+      "id": 1261,
+      "word": "conclude",
+      "meaning": "sonuca varmak"
+    },
+    {
+      "id": 1295,
+      "word": "concurrent",
+      "meaning": "eşzamanlı"
+    },
+    {
+      "id": 56,
+      "word": "deprivation",
+      "meaning": "mahrumiyet"
+    },
+    {
+      "id": 75,
+      "word": "reticence",
+      "meaning": "suskunluk"
+    },
+    {
+      "id": 1183,
+      "word": "fed up",
+      "meaning": "bıkmak"
+    },
+    {
+      "id": 1203,
+      "word": "commodity",
+      "meaning": "ticari mal"
+    },
+    {
+      "id": 47,
+      "word": "come up with",
+      "meaning": "fikir üretmek"
+    },
+    {
+      "id": 106,
+      "word": "consequenty",
+      "meaning": "sonuç olarak"
+    },
+    {
+      "id": 1188,
+      "word": "endurance",
+      "meaning": "dayanıklılık"
+    },
+    {
+      "id": 1173,
+      "word": "restrict",
+      "meaning": "sınırlamak"
+    }
+  ],
+  "current_question_idx": 20,
+  "home_score": 3,
+  "away_score": 4,
+  "last_answer_status": "❌ Yanlış! Doğru Cevap: **sınırlamak**",
+  "historical_champions": {
+    "1986": "⚪Beyaz",
+    "1987": "🔵Mavi",
+    "1988": "🔵Mavi",
+    "1989": "🔴Kırmızı",
+    "1990": "🟠Turuncu",
+    "1991": "🩶Gri",
+    "1992": "🟠Turuncu",
+    "1993": "🔵Mavi",
+    "1994": "🔵Mavi",
+    "1995": "🔵Mavi",
+    "1996": "🟠Turuncu",
+    "1997": "🟡Sarı",
+    "1998": "🟡Sarı",
+    "1999": "⚪Beyaz",
+    "2000": "⚫Siyah",
+    "2001": "🟠Turuncu",
+    "2002": "🟠Turuncu",
+    "2003": "🟠Turuncu",
+    "2004": "🔵Mavi",
+    "2005": "🔴Kırmızı",
+    "2006": "🟠Turuncu",
+    "2007": "🟠Turuncu",
+    "2008": "🩵Turkuaz",
+    "2009": "⚫Siyah",
+    "2010": "⚪Beyaz",
+    "2011": "🔴Kırmızı",
+    "2012": "🟠Turuncu",
+    "2013": "⚫Siyah",
+    "2014": "💖Pembe",
+    "2015": "🔴Kırmızı",
+    "2016": "🔵Mavi",
+    "2017": "🔵Mavi",
+    "2018": "🔵Mavi",
+    "2019": "🟠Turuncu",
+    "2020": "🌌Lacivert",
+    "2021": "🩶Gri",
+    "2022": "🟠Turuncu",
+    "2023": "🌌Lacivert",
+    "2024": "🩶Gri",
+    "2025": "⚫Siyah"
+  },
+  "championship_counts": {
+    "🟠Turuncu": 11,
+    "🔵Mavi": 9,
+    "⚫Siyah": 4,
+    "🔴Kırmızı": 4,
+    "🩶Gri": 3,
+    "⚪Beyaz": 3,
+    "🌌Lacivert": 2,
+    "🟡Sarı": 2,
+    "💖Pembe": 1,
+    "🩵Turkuaz": 1,
+    "🟢Yeşil": 0,
+    "🟣Mor": 0
+  }
+}
